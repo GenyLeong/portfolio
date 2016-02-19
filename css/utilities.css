@@ -5,7 +5,9 @@
 		width: 100%;
 	}
 }
-
+a{
+	text-decoration: none !important;
+}
 strong { 
 	font-weight: 600; 
 }

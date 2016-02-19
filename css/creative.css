@@ -67,6 +67,14 @@ hr{
         color: #F05F40 !important;
         font-size: 3rem !important;
     }
+
+    .img{
+        background-color: #F05F40;
+    }
+
+    .img_100{
+        opacity: 0.6;
+    }
 }
 
 @media only screen and (max-width: 667px) {
