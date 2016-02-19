@@ -61,7 +61,7 @@ function maquina(contenedor,texto,intervalo){
       }},intervalo);
 };
 
-var texto = "HOLA, MI NOMBRE ES GÉNESIS. SOY CODER DE LABORATORIA :P";
+var texto = "HOLA, MI NOMBRE ES GÉNESIS. SOY CODER DE LABORATORIA :)";
 // 100 es el intervalo de minisegundos en el que se escribirá cada letra.
 maquina("maquinas",texto,40);
 
