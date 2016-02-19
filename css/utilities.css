@@ -1,0 +1,250 @@
+/* Shortcuts */
+
+@media (max-width: 700px) {
+	[class*="col-"] {
+		width: 100%;
+	}
+}
+
+strong { 
+	font-weight: 600; 
+}
+
+.f-600 {
+	font-weight: 600;
+}
+.f-400 {
+	font-weight: 400;
+}
+
+.fs-65{
+	font-size: 65px;
+}
+
+.f-300{
+	font-weight: 300;
+}
+
+.fs-21{
+	font-size: 21px;
+}
+
+.pd-0{
+	padding: 0;
+}
+.pd-7 {
+	padding: 7px;
+}
+
+.pd-9 {
+	padding: 9%;
+}
+
+.pd-10 {
+	padding: 10%;
+}
+
+.pd-14 {
+	padding: 14px;
+}
+
+.pd-21{
+	padding: 21px;
+}
+
+.pv-63{
+    padding-bottom: 63px;
+    padding-top: 63px;
+}
+
+.pt-7{
+	padding-top: 7px;
+}
+.pb-21{
+	padding-bottom: 21px;
+}
+
+.pb-63{
+	padding-bottom: 63px;
+}
+
+.pb-5{
+	padding-bottom: 5%;
+}
+.pl-5{
+	padding-left: 5%;
+}
+.pr-5{
+	padding-right: 5%;
+}
+
+.ph-63{
+	padding-left: 63px;
+    padding-right: 63px;
+}
+
+.mg-0{
+	margin: 0;
+}
+
+.mg-7{
+	margin: 7px;
+}
+
+.mt-7{
+	    margin-top: 7px;
+}
+
+.mt-14{
+	 margin-top: 14px;
+}
+.mt-21{
+	    margin-top: 21px;
+}
+
+.mt-28{
+	    margin-top: 28px;
+}
+
+.mt-35{
+	    margin-top: 35px;
+}
+
+.mt-63{
+	    margin-top: 63px;
+}
+
+.ml-7{
+	   margin-left: 7px;
+}
+
+.ml-45{
+	margin-left: 45%;
+}
+
+.mv-21{
+	 margin-top: 21px;
+    margin-bottom: 21px;
+}
+
+.mv-35{
+	margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.mv-63{
+	margin-top: 63px;
+    margin-bottom: 63px;
+}
+
+.mr-14{
+	margin-right: 14px;
+}
+
+.mb-42{
+    margin-bottom: 42px;
+}
+
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: #888;
+}
+.text-humo{
+	color: #ABABB4;
+}
+.text-green{
+ 	color: #0dc0c0;
+}
+.text-orange-humo{
+	color: #F6B399;
+}
+.text-black{
+	color:#000000;
+}
+.active {
+	color: #0dc0c0;
+}
+
+.text-nav{
+	    color: #9d9d9d;
+	    font-size: 3rem;
+}
+
+.a-none-decoration{
+	text-decoration: none;
+}
+
+.border-radius-35{
+	    border-radius: 35px;
+}
+
+.bg-shadow{
+	box-shadow: 0px 1px 2px 0px gray;
+}
+.bg-black{
+	background-color: black;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+
+.bg-white{
+	background-color:white;
+}
+
+.bg-orange{
+	background-color:#F05F40;
+}
+
+.orange{
+	color:#F05F40;
+}
+
+.bg-img-block {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
+
+.pink{
+	color:	#FF00FF;
+}
+
+.border{
+	border-radius: 50% dashed white;
+}
+
+.bg-transparent {
+	background: transparent;
+}
+
+.border-none{
+	border:none;
+}
+
