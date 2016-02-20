@@ -38,8 +38,9 @@ strong {
 	padding: 7px;
 }
 
-.pd-9 {
-	padding: 9%;
+.ph-12 {
+	 padding-left: 12%;
+    padding-right: 12%;
 }
 
 .pd-10 {
@@ -123,6 +124,7 @@ strong {
 .ml-45{
 	margin-left: 45%;
 }
+
 
 .mv-21{
 	 margin-top: 21px;
