@@ -26,6 +26,16 @@ hr{
     color: whitesmoke;
 }
 
+.allh {
+    height: 100%;
+}
+.vcenter {
+    display: flex;
+    align-items: center;
+    padding-top: 50px;
+}
+
+
 .btn-hover:hover{
 	color:white;
 	background-color: #F6B399;
@@ -52,7 +62,7 @@ hr{
     background-color: rgba(0,0,0,0.5);
 }
 
-@media only screen and (max-width: 903px) {
+@media only screen and (max-width: 992px) {
     .text-nav {
         font-size: 3rem !important;
     }
@@ -60,6 +70,11 @@ hr{
     .fs-21{
         font-size: 1.5rem !important;
     }
+
+    #maquinas {
+    font-size: 3rem;
+    color: white;
+}
 }
 
 @media only screen and (max-width: 767px) {
@@ -75,6 +90,13 @@ hr{
     .img_100{
         opacity: 0.6;
     }
+
+    #maquinas{
+        margin-top: 21px;
+        font-size: 2rem;
+        color: white;
+        
+    }
 }
 
 @media only screen and (max-width: 667px) {
@@ -86,21 +108,33 @@ hr{
 
 @media only screen and (max-width: 480px) {
     .mt-14-xs {
-        margin-top: 14px !important;
+        margin-top: 7px !important;
     }
-    .fz-15-xs {
-        font-size: 15px !important;
+    .fz-12-xs {
+        font-size: 12px !important;
     } 
 
     #maquinas{
-        margin-top: 14px;
-        font-size: 25px;
-        color: white;
-        text-align: center;
+    margin-top: 14px;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
     }
 
     .text-nav {
     color: #F05F40 !important;
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
+    }
+
+    .border-none {
+    border: none;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    }
+
+    .text-white {
+    color: white;
+    font-size: 1.5rem;
 }
+
 }
